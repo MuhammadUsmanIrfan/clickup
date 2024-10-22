@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/bilalkhalid/Desktop/hassan/Development/team 7/PROJECTS/solar/backend/logs/.76d59b146f06c1c7b9ce876eb5c8b6759de2d91a-audit.json",
+    "files": [
+        {
+            "date": 1691221408064,
+            "name": "/Users/bilalkhalid/Desktop/hassan/Development/team 7/PROJECTS/solar/backend/logs/Error-2023-08-05.txt",
+            "hash": "f4d569f7f2fcb9bbbe30c3a3b9d0a35ebc9d6ec5b4b57f134046943ec1b11ffd"
+        }
+    ],
+    "hashType": "sha256"
+}

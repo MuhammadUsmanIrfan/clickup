@@ -1,0 +1,2 @@
+{"level":"error","message":"400 - Error: Unable to set role","timestamp":"2024-10-10 10:51:33"}
+{"level":"error","message":"400 - Error: Unable to set role","timestamp":"2024-10-10 10:52:40"}

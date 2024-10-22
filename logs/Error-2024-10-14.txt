@@ -1,0 +1,8 @@
+{"level":"error","message":"400 - Error: Error: This email is already member of this Task","timestamp":"2024-10-14 11:32:39"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-14 17:18:00"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-14 17:21:36"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-14 17:22:42"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-14 17:23:13"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-14 17:25:49"}
+{"level":"error","message":"400 - Error: Unable to set role","timestamp":"2024-10-14 17:43:08"}
+{"level":"error","message":"400 - Error: Unable to set role","timestamp":"2024-10-14 17:59:18"}

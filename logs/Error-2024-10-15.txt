@@ -1,0 +1,14 @@
+{"level":"error","message":"400 - Error: Error: private can only be boolean value","timestamp":"2024-10-15 12:55:53"}
+{"level":"error","message":"400 - Error: Error: private can only be boolean value","timestamp":"2024-10-15 12:56:10"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-15 13:17:31"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-15 13:22:05"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-15 13:22:30"}
+{"level":"error","message":"400 - Error: Error: This email is already member of this workpspace","timestamp":"2024-10-15 14:36:29"}
+{"level":"error","message":"400 - Error: Error: you already member of this workpspace","timestamp":"2024-10-15 14:37:17"}
+{"level":"error","message":"400 - Error: Error: you already member of this workpspace","timestamp":"2024-10-15 14:39:07"}
+{"level":"error","message":"400 - Error: Error: you already member of this workpspace","timestamp":"2024-10-15 14:44:56"}
+{"level":"error","message":"400 - Error: Error: you already member of this workpspace","timestamp":"2024-10-15 14:45:24"}
+{"level":"error","message":"400 - Error: Error: you already member of this workpspace","timestamp":"2024-10-15 14:48:43"}
+{"level":"error","message":"400 - Error: Error: private can only be boolean value","timestamp":"2024-10-15 15:07:50"}
+{"level":"error","message":"400 - Error: Error: is_private can only be true or false","timestamp":"2024-10-15 15:08:58"}
+{"level":"error","message":"400 - Error: Error: is_private can only be true or false","timestamp":"2024-10-15 15:47:17"}

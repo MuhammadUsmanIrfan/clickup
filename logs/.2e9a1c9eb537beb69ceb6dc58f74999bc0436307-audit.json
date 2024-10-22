@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\ClickUpClone\\testing-Invition-logic\\logs\\.2e9a1c9eb537beb69ceb6dc58f74999bc0436307-audit.json",
+    "files": [
+        {
+            "date": 1728285206476,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\ClickUpClone\\testing-Invition-logic\\logs\\Error-2024-10-07.txt",
+            "hash": "f42438197870ae0878fd89d8b9a9637281d2bd9d0c95321c3ea13bbb208e7a37"
+        }
+    ],
+    "hashType": "sha256"
+}

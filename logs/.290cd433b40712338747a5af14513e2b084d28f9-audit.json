@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\.290cd433b40712338747a5af14513e2b084d28f9-audit.json",
+    "files": [
+        {
+            "date": 1728884460739,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-14.txt",
+            "hash": "2eb9001b3eaa50a1cc92ef0c3781e23a1803ec94b3bb7399e7f03442e5243752"
+        },
+        {
+            "date": 1728971782770,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-15.txt",
+            "hash": "ced7db8dfd0fd2bf4369bca4d48be664cf9338206b6de6a769c0bfaff785ae22"
+        },
+        {
+            "date": 1729059841147,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-16.txt",
+            "hash": "61afce2be53e7884035a62527c4469acc7ca998612e21bc2b73f648193c303b7"
+        },
+        {
+            "date": 1729145908570,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-17.txt",
+            "hash": "f0a93931772f6db9d1d2f2964dc1c0b544d4c933f398bb8ebb4b638aa3e5514f"
+        },
+        {
+            "date": 1729230755359,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-18.txt",
+            "hash": "42e1bb3765ad0c2de60ba00516cbb77f5da32f261faedd222e3f4d7efa64ef24"
+        },
+        {
+            "date": 1729432487589,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-20.txt",
+            "hash": "579eda0a5d83456eebb6e7a2379350166c49a94343628a523a2230fce9f8dc11"
+        },
+        {
+            "date": 1729492152898,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-21.txt",
+            "hash": "dce51a4774e3b6eb4c81f289a7f92148c7e2c78bc417885b5d9d581c35241ec8"
+        },
+        {
+            "date": 1729594942741,
+            "name": "C:\\Users\\Usman\\Desktop\\Team Seven Solutions\\Practise Projects\\ClickUpClone\\Backend-code\\logs\\Error-2024-10-22.txt",
+            "hash": "0de6372255294b61faa4cc45c8965aad4bf6cd25062234f550b7e7872e4b06f1"
+        }
+    ],
+    "hashType": "sha256"
+}
